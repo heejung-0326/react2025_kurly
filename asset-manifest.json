@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react2025_kurly/static/css/main.8468f78d.css",
+    "main.js": "/react2025_kurly/static/js/main.face31f0.js",
+    "static/media/new.png": "/react2025_kurly/static/media/new.f85f584af1dd647e813f.png",
+    "static/media/best.png": "/react2025_kurly/static/media/best.6996473bf31cc68a2226.png",
+    "static/media/shopping.png": "/react2025_kurly/static/media/shopping.309e59fca964189eca7e.png",
+    "static/media/item1.jpg": "/react2025_kurly/static/media/item1.1693e45979fa3eaed945.jpg",
+    "static/media/item3.jpg": "/react2025_kurly/static/media/item3.ad9544397850bc6f1ef3.jpg",
+    "static/media/item2.jpg": "/react2025_kurly/static/media/item2.96a059f95809919de6ef.jpg",
+    "static/media/item4.jpg": "/react2025_kurly/static/media/item4.a961daef1db26cfe702a.jpg",
+    "static/media/pick.png": "/react2025_kurly/static/media/pick.5a1abea2aa7795dce448.png",
+    "index.html": "/react2025_kurly/index.html",
+    "main.8468f78d.css.map": "/react2025_kurly/static/css/main.8468f78d.css.map",
+    "main.face31f0.js.map": "/react2025_kurly/static/js/main.face31f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8468f78d.css",
+    "static/js/main.face31f0.js"
+  ]
+}
